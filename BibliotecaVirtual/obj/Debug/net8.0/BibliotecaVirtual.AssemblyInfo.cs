@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaVirtual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dde70a1d1de5583ee83d34ea1f61a84c48029ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaVirtual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaVirtual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

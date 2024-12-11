@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7356696-0544-4B3A-9BFE-79B207D6560C}|Negocio\\Negocio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\negocio\\base\\basenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7356696-0544-4B3A-9BFE-79B207D6560C}|Negocio\\Negocio.csproj|solutionrelative:negocio\\base\\basenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36300C79-9E7C-41B3-BAC7-E35A9F6453E0}|INegocio\\INegocio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\inegocio\\base\\ibasenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36300C79-9E7C-41B3-BAC7-E35A9F6453E0}|INegocio\\INegocio.csproj|solutionrelative:inegocio\\base\\ibasenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\repositorio\\contexto\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\contexto\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A04873-9FE8-4EFF-8BB2-7B671E16FD6D}|IRepositorio\\IRepositorio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\irepositorio\\base\\ibaserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A04873-9FE8-4EFF-8BB2-7B671E16FD6D}|IRepositorio\\IRepositorio.csproj|solutionrelative:irepositorio\\base\\ibaserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7356696-0544-4B3A-9BFE-79B207D6560C}|Negocio\\Negocio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\negocio\\negocio\\banconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7356696-0544-4B3A-9BFE-79B207D6560C}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio\\banconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\repositorio\\base\\baserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\base\\baserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\repositorio\\contexto\\conexaodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\contexto\\conexaodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|d:\\estudos\\projetinhos\\bibliotecavirtual\\repositorio\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B1822-44C6-41A5-B813-E1FEFD3A29C9}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseNegocio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\INegocio\\Base\\IBaseNegocio.cs",
+              "RelativeDocumentMoniker": "INegocio\\Base\\IBaseNegocio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\INegocio\\Base\\IBaseNegocio.cs",
+              "RelativeToolTip": "INegocio\\Base\\IBaseNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:18:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseNegocio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Negocio\\Base\\BaseNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Base\\BaseNegocio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Negocio\\Base\\BaseNegocio.cs",
+              "RelativeToolTip": "Negocio\\Base\\BaseNegocio.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA/wAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:16:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseRepositorio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\IRepositorio\\Base\\IBaseRepositorio.cs",
+              "RelativeDocumentMoniker": "IRepositorio\\Base\\IBaseRepositorio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\IRepositorio\\Base\\IBaseRepositorio.cs",
+              "RelativeToolTip": "IRepositorio\\Base\\IBaseRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:04:34.37Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -26,6 +98,75 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepositorio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Base\\BaseRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Base\\BaseRepositorio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Base\\BaseRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\Base\\BaseRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:59:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:59:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Contexto\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Contexto\\DatabaseContext.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Contexto\\DatabaseContext.cs",
+              "RelativeToolTip": "Repositorio\\Contexto\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:54:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexaoDataBase.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Contexto\\ConexaoDataBase.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Contexto\\ConexaoDataBase.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Repositorio\\Contexto\\ConexaoDataBase.cs",
+              "RelativeToolTip": "Repositorio\\Contexto\\ConexaoDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:54:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BancoNegocio.cs",
+              "DocumentMoniker": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Negocio\\Negocio\\BancoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio\\BancoNegocio.cs",
+              "ToolTip": "D:\\Estudos\\projetinhos\\BibliotecaVirtual\\Negocio\\Negocio\\BancoNegocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio\\BancoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:50:32.996Z",
+              "EditorCaption": ""
             }
           ]
         }
